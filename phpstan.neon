@@ -1,0 +1,3 @@
+parameters:
+  ignoreErrors:
+    - '#Class PHPUnit\\Framework\\TestCase not found and could not be autoloaded\.#'
